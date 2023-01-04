@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1669885564 source:c:\users\hania\desktop\kolokwium\zadanie_4\klasy.cpp
+	"klasy.hpp"
+	<iostream>
+
+1671696688 c:\users\hania\desktop\kolokwium\zadanie_4\klasy.hpp
+	<iostream>
+
+1671696735 source:c:\users\hania\desktop\kolokwium\zadanie_4\main.cpp
+	<iostream>
+
+1672693417 source:c:\users\hania\desktop\kolos podstawy informatyki\kolokwium\zadanie_4\klasy.cpp
+	"klasy.hpp"
+	<iostream>
+	<stdexcept>
+
+1672693417 c:\users\hania\desktop\kolos podstawy informatyki\kolokwium\zadanie_4\klasy.hpp
+	<iostream>
+
+1671696735 source:c:\users\hania\desktop\kolos podstawy informatyki\kolokwium\zadanie_4\main.cpp
+	<iostream>
+

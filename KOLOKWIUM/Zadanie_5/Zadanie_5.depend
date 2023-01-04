@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669885626 source:c:\users\hania\desktop\kolokwium\zadanie_5\main.cpp
+	<iostream>
+	"klasy.hpp"
+
+1671699395 c:\users\hania\desktop\kolokwium\zadanie_5\klasy.hpp
+	<iostream>
+

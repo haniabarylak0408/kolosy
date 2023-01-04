@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1671478024 source:c:\users\hania\desktop\kolos podstawy informatyki\gracz\main.cpp
+	<iostream>
+	"gracz.hpp"
+
+1671478038 c:\users\hania\desktop\kolos podstawy informatyki\gracz\gracz.hpp
+	<iostream>
+

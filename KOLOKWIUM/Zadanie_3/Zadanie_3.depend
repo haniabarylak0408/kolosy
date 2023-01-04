@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1669885502 source:c:\users\hania\desktop\kolokwium\zadanie_3\klasy.cpp
+	"klasy.hpp"
+	<iostream>
+
+1671695164 c:\users\hania\desktop\kolokwium\zadanie_3\klasy.hpp
+	<iostream>
+
+1671696399 source:c:\users\hania\desktop\kolokwium\zadanie_3\klasa1.cpp
+	<iostream>
+	"Klasa1.hpp"
+
+1671699381 c:\users\hania\desktop\kolokwium\zadanie_3\klasa1.hpp
+	<iostream>
+
+1671694872 source:c:\users\hania\desktop\kolokwium\zadanie_3\klasa2.cpp
+	<iostream>
+	"Klasa2.hpp"
+
+1671696358 c:\users\hania\desktop\kolokwium\zadanie_3\klasa2.hpp
+	<iostream>
+	"Klasa1.hpp"
+
+1671694872 source:c:\users\hania\desktop\kolokwium\zadanie_3\klasa3.cpp
+	<iostream>
+	"Klasa3.hpp"
+
+1671694872 c:\users\hania\desktop\kolokwium\zadanie_3\klasa3.hpp
+	<iostream>
+	"Klasa2.hpp"
+
+1671694872 source:c:\users\hania\desktop\kolokwium\zadanie_3\klasa4.cpp
+	<iostream>
+	"Klasa4.hpp"
+
+1671694872 c:\users\hania\desktop\kolokwium\zadanie_3\klasa4.hpp
+	<iostream>
+	"Klasa3.hpp"
+
+1671717895 source:c:\users\hania\desktop\kolokwium\zadanie_3\main.cpp
+	<iostream>
+	"Klasa4.hpp"
+

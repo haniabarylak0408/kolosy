@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1671472134 source:c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasaa.cpp
+	<iostream>
+	"KlasaA.hpp"
+
+1671472242 c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasaa.hpp
+	<iostream>
+
+1671472222 source:c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasab.cpp
+	<iostream>
+	"KlasaB.hpp"
+
+1671472134 c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasab.hpp
+	<iostream>
+	"KlasaA.hpp"
+
+1671470800 source:c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasac.cpp
+	<iostream>
+	"KlasaC.hpp"
+
+1671470867 c:\users\hania\desktop\kolos podstawy informatyki\kolos1\klasac.hpp
+	<iostream>
+	"KlasaB.hpp"
+
+1671475132 source:c:\users\hania\desktop\kolos podstawy informatyki\kolos1\main.cpp
+	<iostream>
+	<fstream>
+	"KlasaC.hpp"
+
